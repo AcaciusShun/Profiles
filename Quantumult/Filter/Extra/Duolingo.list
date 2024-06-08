@@ -18,3 +18,18 @@ DOMAIN-SUFFIX, zombie.duolingo.com, Duolingo
 DOMAIN-SUFFIX, api2.duolingo.cn, Duolingo
 DOMAIN-SUFFIX, ios-api-2.duolingo.cn, Duolingo
 DOMAIN-SUFFIX, excess.duolingo.com, Duolingo
+
+DOMAIN-SUFFIX simg-ssl.duolingo.cn, Duolingo
+DOMAIN-SUFFIX avatars.duolingo.com, Duolingo
+DOMAIN-SUFFIX stories-static.duolingo.cn, Duolingo
+DOMAIN-SUFFIX midas-bandits-prod.duolingo.cn, Duolingo
+DOMAIN-SUFFIX stories.duolingo.cn, Duolingo
+DOMAIN-SUFFIX images-static.duolingo.cn, Duolingo
+DOMAIN-SUFFIX tts-static.duolingo.cn, Duolingo
+DOMAIN-SUFFIX duolingo-leaderboards-prod.duolingo.cn, Duolingo
+DOMAIN-SUFFIX duolingo-achievements-prod.duolingo.cn, Duolingo
+DOMAIN-SUFFIX goals-api.duolingo.cn, Duolingo
+DOMAIN-SUFFIX d1b8nqdff6d679.cloudfront.net, Duolingo
+DOMAIN-SUFFIX d1btvuu4dwu627.cloudfront.net, Duolingo
+DOMAIN-SUFFIX blog.duolingo.com, Duolingo
+DOMAIN-SUFFIX duolingo.ghost.io, Duolingo
