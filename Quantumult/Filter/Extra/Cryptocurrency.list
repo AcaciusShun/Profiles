@@ -43,6 +43,10 @@ DOMAIN-SUFFIX,bntrace.com,Crypto
 # > OKX
 DOMAIN-SUFFIX,okex.com,Crypto
 DOMAIN-SUFFIX,okx.com,Crypto
+DOMAIN-SUFFIX, wspri.okx.com.cdn.cloudflare.net, Crypto
+DOMAIN-SUFFIX, wsdexpri.okx.com.cdn.cloudflare.net, Crypto
+DOMAIN-SUFFIX, wsdexpri.okx.com.cdn.cloudflare.net, Crypto
+DOMAIN-SUFFIX, www.okx.com.cdn.cloudflare.net, Crypto
 
 # Explorer 
 DOMAIN-SUFFIX,etherscan.io,Crypto
