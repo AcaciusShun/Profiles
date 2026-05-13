@@ -29,6 +29,13 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
 
+# > Claude PROCESS
+PROCESS-NAME,"Claude"
+PROCESS-NAME,"Claude Helper"
+PROCESS-NAME,"Claude Helper (GPU)"
+PROCESS-NAME,"Claude Helper (Plugin)"
+PROCESS-NAME,"Claude Helper (Renderer)"
+
 # > Cloudflare AI Gateway
 DOMAIN,gateway.ai.cloudflare.com
 
